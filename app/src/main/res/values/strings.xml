@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Vehicle Data Recorder</string>
+    <string name="capture">Capture</string>
+    <string name="dialog_title_select_action">Select Action</string>
+    <string name="action_enter_data_manual">Enter vehicle data</string>
+    <string name="action_scan_data">Scan vehicle data</string>
+    <string name="dialog_title_select_scan_source">Select Scan Source</string>
+    <string name="action_internal_camera">Internal Camera</string>
+    <string name="action_usb_camera">USB Camera</string>
+    <string name="action_gallery">Gallery</string>
+    <string name="ocr_result_dialog_title">Hasil Pindai (OCR)</string>
+    <string name="ocr_result_hint">Edit teks jika perlu</string>
+    <string name="dialog_use_text">Gunakan Teks Ini</string>
+    <string name="dialog_cancel">Batal</string>
+</resources>
